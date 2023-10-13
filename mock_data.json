@@ -1,0 +1,45 @@
+{"restaurants": [
+    {
+        "name": "Restaurant 1",
+        "rating": 4.5,
+        "food_type": "Pizza",
+        "location": "New York",
+        "image": "restaurant1.jpg"
+    },
+    {
+        "name": "Restaurant 2",
+        "rating": 4.0,
+        "food_type": "Sushi",
+        "location": "Los Angeles",
+        "image": "restaurant2.jpg"
+    },
+    {
+        "name": "Restaurant 3",
+        "rating": 4.2,
+        "food_type": "Mexican",
+        "location": "Chicago",
+        "image": "restaurant3.jpg"
+    },
+    {
+        "name": "Restaurant 4",
+        "rating": 3.2,
+        "food_type": "Italian",
+        "location": "San Francisco",
+        "image": "restaurant4.jpg"
+    },
+    {
+        "name": "Restaurant 5",
+        "rating": 3.9,
+        "food_type": "Japanese",
+        "location": "Tokyo",
+        "image": "restaurant5.jpeg"
+    },
+    {
+        "name": "Restaurant 6",
+        "rating": 4.8,
+        "food_type": "Indian",
+        "location": "New Delhi",
+        "image": "restaurant6.jpg"
+    }
+    ]
+}
